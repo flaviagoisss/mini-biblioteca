@@ -1,0 +1,24 @@
+body {
+    justify-content: center;
+    width: 350px;
+    padding: 25;
+    background-color: rosybrown;
+    text-align: center;
+    margin: 0 auto;
+}
+.contaides {
+    justify-content: center;
+    width: 80px;
+    padding: 25px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+
+.form{
+    background-color: rgb(155, 227, 236);
+
+}
+.thead{
+    background-color: blue;
+}
